@@ -14,6 +14,10 @@ The focus of this guide is to present what we believe are correct opinions on ho
 
 [T3 Class Progression](t3_class_progression.md)
 
+## Early HL
+
+[Magna2 Farm](magna2_farm.md)
+
 # Endgame Raid Farm Setups
 
 [UBHL Neglected Hunt](ubhl_neglected_hunt.md)
