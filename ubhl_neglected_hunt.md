@@ -21,4 +21,31 @@ Hollowsky Spear (required)
 6th Ixaba (strongly recommended)
 Metal Destroyer (strongly recommended)
 Xeno Katana (can be slotted)
-##Water
+## Water
+### Characters:
+Summer Grea, Uno, Vajra (required)
+
+### Summons:
+4 or 3 water summons with good stats
+Summer Macula FLB, Typhon FLB, Gabriel (strongly recommended)
+Moon, Europa (potentially useful choices)
+
+### Grid
+4 Blue Spheres (required)
+Primal Dark Opus with Stamina and Ougi Cap Key (required)
+2 Europa Harps (required)
+1 Ultima Spear Mainhand with Strife and Auto Cap Key (required)
+1 Galilei’s Insight (strongly recommended)
+1 Taisai Bow (can be slotted)
+1 Murgleis (Can be slotted)
+
+## Light:
+### Characters:
+Song (required)
+Grand Vira, Funf, Andira (strongly recommended)
+
+### Summons:
+Freyr (can be slotted)
+
+### Grid:
+Anything with enough HP to take turns
