@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## GBF Progression
 
-You can use the [editor on GitHub](https://github.com/gbfprogress/gbfprogress/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This is a guide to GBF progression. Rest of the readme is just the templated jekyll stuff.
 
 ### Markdown
 
