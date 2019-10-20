@@ -10,7 +10,7 @@ The best times to start are at the start of the month (Legfest) and in the middl
 
 ## Rerolling
 
-GBF is a gacha game, which inherently means that rolls are one of the most valuable resources. The creation of a new account is essentially the *only* time in the game that you have the ability to farm rolls. Therefore it is **highly recommended** that you take the time to reroll
+GBF is a gacha game, which inherently means that rolls are one of the most valuable resources. The creation of a new account is essentially the *only* time in the game that you have the ability to farm rolls. Therefore it is **highly recommended** that you take the time to reroll.
 
 If you are lucky enough to be starting during a roulette event (Christmas and March Anniversary), the best strategy is to make a large number of accounts and then obtain their free roulette roll daily, then choose an account at the end.
 
