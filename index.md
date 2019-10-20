@@ -5,4 +5,5 @@ It is intended to cover gaps where the overall English community has failed to p
 ## Earlygame
 
 [Creating an account](account_creation.md)
+
 [Joining your first crew)(early_crew_selection.md)
