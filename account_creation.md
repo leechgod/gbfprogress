@@ -14,6 +14,8 @@ GBF is a gacha game, which inherently means that rolls are one of the most valua
 
 If you are lucky enough to be starting during a roulette event (Christmas and March Anniversary), the best strategy is to make a large number of accounts and then obtain their free roulette roll daily, then choose an account at the end.
 
+The wiki has an [excellent guide](https://gbf.wiki/Rerolling) on how to reroll.
+
 ## Spending your Startdash
 
 Depending on your immediate goals and whether you want to spend the startdash immediately, you may choose to wait until after your first spark to spend it to have a better idea of what to buy. But the general advice is to always choose a limited character that will be useful to you in the short term (if it is useful in the long term, just wait before buying it).
