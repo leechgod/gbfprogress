@@ -9,3 +9,5 @@ The focus of this guide is to present what we believe are correct opinions on ho
 [Creating an account](account_creation.md)
 
 [Joining your first crew](early_crew_selection.md)
+
+[Rank 1-30](rank_1_30.md)
