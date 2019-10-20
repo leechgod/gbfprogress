@@ -24,7 +24,7 @@ The focus of this guide is to present what we believe are correct opinions on ho
 
 [Reruns](events/rerun.md)
 
-[Collabs](events/collabs.md)
+[Collab](events/collabs.md)
 
 ## Endgame Raid Farm Setups
 
