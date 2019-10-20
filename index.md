@@ -13,3 +13,9 @@ The focus of this guide is to present what we believe are correct opinions on ho
 [Joining your first crew](early_crew_selection.md)
 
 [T3 Class Progression](t3_class_progression.md)
+
+# Endgame Raid Farm Setups
+
+[UBHL Neglected Hunt](ubhl_neglected_hunt.md)
+
+[Tiamat Malice Neglected Hunt](tiamalice_neglected_hunt.md)
