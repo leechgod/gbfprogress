@@ -8,6 +8,9 @@ A "boxing" event typically occurs towards the end of each month and lasts around
 - JP to finish your classes
 - Crystals in the first 20 boxes
 - A summon in each box to reduce for quartz
+- Damascus crystals in some of the boxes for newer players (timegated)
+
+The events also drop damascus crystals at a pretty decent rate - about 1 in every 3 boxes.
 
 With all of that it is simple to see why focusing on farming an event could be a priority. If there is nothing else going on then it is a good use of GBF time. *At the minimum* you should always do 20 boxes once you have a reasonable OTK setup.
 
