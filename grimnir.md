@@ -9,5 +9,5 @@ Top priority to complete
 4 FLB Harps. Stamina-oriented grid  
 5 FLB Harps. 100% crit with Tiamat x non Tiamat. Very useful for wind OTK setups  
 ## Tiamat Guns
-3 ULB Guns. A good benchmark, lesser priority than completing harps  
+3 ULB Guns. A good benchmark, lesser priority than completing 3 FLB harps  
 6 ULB Guns. Shouldn't ever need more outside of extremely niche setups  
