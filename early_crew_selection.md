@@ -6,6 +6,10 @@ Crews can share raids ingame, but given codes exist, one doesn't need to be in t
 
 Guidance on GW will be given elsewhere, but for here you need to know that there are different tiers of crews - Unranked, C, B, and A. The tier A crews themselves can further be divided into slack, 1bil/slack, and competitive. Rewards vary depending on what tier you are in. GW progression is highly timegated and it is important to not waste one in a crew that does not get rewards.
 
+## Mindset
+
+This will be a temporary crew. Unless you are friends with someone who can vouch for you, you won't be getting into your permanent home yet. So be aware that you will eventually be leaving this crew. However, that doesn't mean you are losing friends - a respectable crew will understand that you have a different mindset than them and not be too upset that you are leaving for greater heights.
+
 ## Tier A
 
 Most of the rewards are obtained simply by being in tier A, so that should be your goal.
