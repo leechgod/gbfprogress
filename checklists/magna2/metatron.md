@@ -1,4 +1,4 @@
-# Metatron FLB
+# Metatron Checklist
 ## Chevalier FLB
 Top priority to complete  
 ## Chevalier Swords
