@@ -8,4 +8,4 @@ Progressing in the main quest unlocks various things at particular chapters. The
 - As you progress through the different islands you will unlock "Hard" difficulty magna fights, which are required to unlock the classic "magna raids" that you will be hosting and farming after rank 30.
 - Clearing chapter 16 is required to clear all the [pinboard missions](https://gbf.wiki/Pinboard_Missions)
 
-While you are doing this, you will also be leveling your main characters classes. For information on what classes to start leveling first, see [class progression](class_progression.md).
+While you are doing this, you will also be leveling your main characters classes. For information on what classes to start leveling first, see [class progression](t3_class_progression.md).
