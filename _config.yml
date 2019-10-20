@@ -12,7 +12,6 @@ include:
   - CONTRIBUTING.md
   - ISSUE_TEMPLATE.md
   - PULL_REQUEST_TEMPLATE.md
-github:
-  is_project_page: false
+title: GBF Progression
 
 theme: jekyll-theme-slate
