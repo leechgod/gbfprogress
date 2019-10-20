@@ -18,7 +18,11 @@ The focus of this guide is to present what we believe are correct opinions on ho
 
 [Magna2 Farm](magna2_farm.md)
 
-# Endgame Raid Farm Setups
+## Event Guidelines
+
+[Boxing Events](events/boxing.md)
+
+## Endgame Raid Farm Setups
 
 [UBHL Neglected Hunt](ubhl_neglected_hunt.md)
 
