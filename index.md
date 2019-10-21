@@ -31,3 +31,12 @@ The focus of this guide is to present what we believe are correct opinions on ho
 [UBHL Neglected Hunt](ubhl_neglected_hunt.md)
 
 [Tiamat Malice Neglected Hunt](tiamalice_neglected_hunt.md)
+
+<div>
+    {% for item in site.data.navbar.toc %}
+    <h2>{{ item.title }}</h3>
+        {% for entry in item.subfolderitems %}
+            <a href="{{ entry.url }}">{{ entry.title }}</a>
+        {% endfor %}
+    {% endfor %}
+</div>
