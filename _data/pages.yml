@@ -14,16 +14,16 @@ toc:
       - title: Magna2 Farm
         url:  magna2_farm.html
   - title: Event Guidelines
-      subfolderitems:
+    subfolderitems:
       - title: Boxing Events
-        url:  /events/boxing.html
+        url:  events/boxing.html
       - title: Reruns
-        url: /events/rerun.html
+        url: events/rerun.html
       - title: Collabs
-        url: /events/collab.html
+        url: events/collab.html
   - title: Endgame Raid Farm Setups
     subfolderitems:
-    - title: UBHL Neglected Hunt
-      url:  ubhl_neglected_hunt.html
-    - title: Tiamat Malice Neglected Hunt
-      url: tiamalice_neglected_hunt.html
+      - title: UBHL Neglected Hunt
+        url:  ubhl_neglected_hunt.html
+      - title: Tiamat Malice Neglected Hunt
+        url: tiamalice_neglected_hunt.html
