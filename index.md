@@ -5,7 +5,7 @@ It is intended to cover gaps where the overall English community has failed to p
 The focus of this guide is to present what we believe are correct opinions on how to optimally play the game, however for an integrated experience factual/nonopinionated content may be mixed in (but you may need to supplement with wiki and other sources).
 
 <div>
-    {% for item in site.data.content.toc %}
+    {% for item in site.data.pages.toc %}
     <h2>{{ item.title }}</h2>
         {% for entry in item.subfolderitems %}
             <a href="{{ entry.url }}">{{ entry.title }}</a>
