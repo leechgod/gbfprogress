@@ -23,9 +23,6 @@
 
     <!-- MAIN CONTENT -->
     <div id="main_content_wrap" class="outer">
-        <section id="main_content" class="inner">
-            {{ content }}
-          </section>
         <aside id="side_navigation_wrap">
             <nav id="side_navigation_content">
                 {% for item in site.data.navbar.toc %}
@@ -38,6 +35,9 @@
               {% endfor %}
             </nav>
           </aside>
+          <section id="main_content" class="inner">
+              {{ content }}
+          </section>
     </div>
 
     <!-- FOOTER  -->
