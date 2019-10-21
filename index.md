@@ -4,37 +4,9 @@ It is intended to cover gaps where the overall English community has failed to p
 
 The focus of this guide is to present what we believe are correct opinions on how to optimally play the game, however for an integrated experience factual/nonopinionated content may be mixed in (but you may need to supplement with wiki and other sources).
 
-## Earlygame
-
-[Creating an account](account_creation.md)
-
-[Rank 1-30](rank_1_30.md)
-
-[Joining your first crew](early_crew_selection.md)
-
-[T3 Class Progression](t3_class_progression.md)
-
-## Early HL
-
-[Magna2 Farm](magna2_farm.md)
-
-## Event Guidelines
-
-[Boxing Events](events/boxing.md)
-
-[Reruns](events/rerun.md)
-
-[Collabs](events/collab.md)
-
-## Endgame Raid Farm Setups
-
-[UBHL Neglected Hunt](ubhl_neglected_hunt.md)
-
-[Tiamat Malice Neglected Hunt](tiamalice_neglected_hunt.md)
-
 <div>
-    {% for item in site.data.navbar.toc %}
-    <h2>{{ item.title }}</h3>
+    {% for item in site.data.content.toc %}
+    <h2>{{ item.title }}</h2>
         {% for entry in item.subfolderitems %}
             <a href="{{ entry.url }}">{{ entry.title }}</a>
         {% endfor %}
